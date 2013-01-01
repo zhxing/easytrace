@@ -10,7 +10,7 @@ Java 命令行诊断工具
 当完成以上工作后，会把所有代码进行开源。
 
 # 简介
-easytrace 是一款Java的运行时诊断工具，可以在不停止程序的情况下查看Java程序运行时状况。
+easytrace 是一款Java的运行时诊断工具（采用动态字节码注入技术），可以在不停止程序的情况下查看Java程序运行时状况。
 当初的开发的设想是在Btrace 的基础上改进成一个命令行的工具，当基本对Btrace代码有一定了解的时候，发现Btrace代码复杂，改造工程也比较麻烦，后来发现HouseMD的作者在微博上发布了[HouseMD](https://github.com/zhongl/HouseMD)，
 在了解HouseMD后，决定自己开发一套Java版本的诊断工具，原因有两点：1、不熟scala，不能对HouseMD进行定制  2、需自己根据自己要求定制。当然，easytrace 很大部分是参考了HouseMD的功能（但实现方式不太相同），这里特别感谢HouseMD、Btrace的作者。
 
