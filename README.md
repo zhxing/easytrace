@@ -37,6 +37,6 @@ easytrace 是一款Java的运行时诊断工具（采用动态字节码注入技
 
 ·····
 
-详细的指南可查看：https://github.com/zhxing/easytrace/wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97
+详细的指南可查看：https://github.com/zhxing/easytrace/wiki/%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97
 
 诊断示例可查看：https://github.com/zhxing/easytrace/wiki/%E8%AF%8A%E6%96%AD%E7%A4%BA%E4%BE%8B
