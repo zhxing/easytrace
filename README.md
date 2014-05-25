@@ -42,14 +42,14 @@ easytrace 是一款Java的运行时诊断工具（采用动态字节码注入技
 诊断示例可查看：https://github.com/zhxing/easytrace/wiki/%E8%AF%8A%E6%96%AD%E7%A4%BA%E4%BE%8B
 
 # 版本
-v0.1<br>
-第一个版本
+v0.1
+* 第一个版本
 
-v0.2<br>
+v0.2
 * 新增trace父类的匹配，新增<init>构造方法的匹配
 * bugfix
 
-v.0.3<br>
+v.0.3
 * 新增top命令
 * 新增thread 命令
 * bugfix
